@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1687258988 source:f:\work\uno\json_write\cpp\json_receiver\main.cpp
+	<iostream>
+	<iomanip>
+	<thread>
+	<string>
+	"SerialPort.h"
+
+1687256853 f:\work\uno\json_write\cpp\json_receiver\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1687423239 source:f:\work\uno\json_write\cpp\json_receiver\serialport.cpp
+	"SerialPort.h"
+
+1687424883 source:f:\work\uno\json_write\cpp\serialport.cpp
+	"SerialPort.h"
+
+1687499943 f:\work\uno\json_write\cpp\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1687500818 source:f:\work\uno\json_write\cpp\main.cpp
+	<iostream>
+	<iomanip>
+	<thread>
+	<string>
+	<conio.h>
+	"hdr/SerialPort.h"
+	"hdr/logToFile.h"
+
+1687499366 source:f:\work\uno\json_write\cpp\gettime.cpp
+	"getTime.h"
+
+1687499433 f:\work\uno\json_write\cpp\gettime.h
+	<string>
+	<sstream>
+	<ctime>
+	<iomanip>
+
+1687499366 source:f:\work\uno\json_write\cpp\logtofile.cpp
+	"logToFile.h"
+
+1687499943 f:\work\uno\json_write\cpp\logtofile.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"getTime.h"
+
+1687499943 f:\work\uno\json_write\cpp\hdr\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1687499943 f:\work\uno\json_write\cpp\hdr\logtofile.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"getTime.h"
+
+1687499433 f:\work\uno\json_write\cpp\hdr\gettime.h
+	<string>
+	<sstream>
+	<ctime>
+	<iomanip>
+
+1687500874 source:f:\work\uno\json_write\cpp\src\gettime.cpp
+	"../hdr/getTime.h"
+
+1687500894 source:f:\work\uno\json_write\cpp\src\logtofile.cpp
+	"../hdr/logToFile.h"
+
+1687500910 source:f:\work\uno\json_write\cpp\src\serialport.cpp
+	"../hdr/SerialPort.h"
+
