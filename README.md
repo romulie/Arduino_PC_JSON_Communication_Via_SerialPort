@@ -4,4 +4,6 @@ When sending is activated program receives the incoming data (in JSON format), p
 and logs the data to the file.
 
 In the folder ArduinoSketch_JsonSend you can find Arduino sketch to demonstrate activation/deactivation of sending JSON data
-from Arduino board through the Serial Port on the Windows PC.
+from Arduino board through the Serial Port on the Windows.
+
+C++ app was created in Code::Blocks so repository includes Code::Blocks project config files.
